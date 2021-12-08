@@ -1,0 +1,19 @@
+* {
+  margin: 10px;
+}
+
+.Utenti {
+  margin-left: 20px;
+  background-color: grey;
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande',
+    'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+  font-size: 24px;
+}
+
+.Acquisti {
+  margin-left: 20px;
+  background-color: #aaaa;
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande',
+    'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+  font-size: 24px;
+}
